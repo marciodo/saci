@@ -1,7 +1,7 @@
 # SACI
-## Smart Accelerator Control  
+### Smart Accelerator Control  
 
-### Goals
+## Goals
 
-Automatically generate pyDM displays based on a IOCs JSON description file.
+* Automatically generate pyDM displays based on a IOCs JSON description file.
 
