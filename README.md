@@ -1,5 +1,5 @@
 # SACI
-##Smart Accelerator Control  
+## Smart Accelerator Control  
 
 ### Goals
 
